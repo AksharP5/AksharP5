@@ -24,5 +24,3 @@ jobs:
         with:
           user_id: ${{ secrets.DEVCARD_ID }}
           commit_message: "chore: update ${filename}" 
-          committer_email: "aksharpatel1233@gmail.com"
-          committer_name: "AksharP5"
